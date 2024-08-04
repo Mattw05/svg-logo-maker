@@ -12,4 +12,7 @@
   Matt Weigandt
   ## Testing
   run (npm test) in the terminal 
+
+  ## Video Walkthrough
+  https://drive.google.com/file/d/1D8nSaTaKLnBoZXJWC-mZBQW-lNbl4uhp/view
   
